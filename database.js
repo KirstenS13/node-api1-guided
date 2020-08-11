@@ -1,3 +1,4 @@
+// these types of functions would be coming from a database in real life, but for now we can call them from this file
 let users = [
 	{ id: "1", name: "Jane Doe" },
 	{ id: "2", name: "John Doe" },
